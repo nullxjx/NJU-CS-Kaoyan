@@ -58,6 +58,9 @@
 ### 2019年6月14号
 
 今天通知书终于到了。
+![image](https://github.com/JiaxinTse/NJU-CS-Kaoyan/blob/master/1560491609052.jpeg)
+
+![image](https://github.com/JiaxinTse/NJU-CS-Kaoyan/blob/master/IMG_20190614_131543.jpg)
 
 
 ## 3.报考建议
