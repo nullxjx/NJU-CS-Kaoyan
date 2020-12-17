@@ -234,7 +234,7 @@ A：内心比较脆弱的、心理承受能力比较差的可以找个伴一起�
 考研群  
 ![][QQ]
 
-[cover]: ./1.jpg
-[inner]: ./2.jpg
+[cover]: ./cover.jpg
+[inner]: ./admission.jpg
 [QQ]: ./QR_code.jpg
 [note]: ./English_note_by_XJX.pdf
