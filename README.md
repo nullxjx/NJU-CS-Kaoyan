@@ -1,4 +1,4 @@
-# NJU CS考研经验贴 by TheXJX
+# NJU CS考研经验贴
 
 
 ## 1.基本情况
